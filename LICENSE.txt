@@ -1,0 +1,504 @@
+VoiceScroll
+ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ С КОНЕЧНЫМ ПОЛЬЗОВАТЕЛЕМ
+END USER LICENSE AGREEMENT
+
+Редакция / Version 1.0
+Дата / Date: 9 October 2026
+
+Автор и правообладатель / Author and Rightsholder: Dmitrych80
+Электронная почта / Email: dmitrych80@gmail.com
+
+© Dmitrych80. Все права защищены.
+© Dmitrych80. All rights reserved.
+
+
+============================================================
+РУССКАЯ ВЕРСИЯ
+============================================================
+
+ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ
+С КОНЕЧНЫМ ПОЛЬЗОВАТЕЛЕМ ПРОГРАММЫ VoiceScroll
+
+Настоящее Лицензионное соглашение с конечным пользователем, далее — «Соглашение», регулирует установку и использование программы для устройств под управлением операционной системы Android под названием VoiceScroll, далее — «Программа».
+
+Автором и правообладателем Программы является разработчик, выступающий под именем Dmitrych80, далее — «Правообладатель».
+
+Адрес электронной почты Правообладателя:
+dmitrych80@gmail.com
+
+
+1. ПРИНЯТИЕ СОГЛАШЕНИЯ
+
+1.1. Перед началом использования Программы Пользователь обязан полностью ознакомиться с настоящим Соглашением.
+
+1.2. Нажатие кнопки «Принимаю», «Согласен» или другой аналогичной кнопки, а также последующий запуск или использование Программы означает полное и безоговорочное согласие Пользователя с условиями настоящего Соглашения.
+
+1.3. Если Пользователь не согласен с настоящим Соглашением полностью или частично, он обязан отказаться от использования Программы, закрыть её и удалить со своего устройства.
+
+1.4. Пользователь подтверждает, что обладает необходимой дееспособностью для заключения настоящего Соглашения. Если Пользователь действует от имени организации, он подтверждает наличие соответствующих полномочий.
+
+
+2. ТЕРМИНЫ
+
+2.1. «Программа» — программа VoiceScroll, включая исполняемые APK-файлы, объектный код, интерфейс, графические материалы, документацию, обновления и иные компоненты, предоставленные Правообладателем как часть VoiceScroll.
+
+2.2. «Устройство» — телевизионная приставка, Android-бокс, телевизор, планшет, автомобильное головное устройство или иное оборудование под управлением Android либо совместимой операционной системы.
+
+2.3. «Пользователь» — физическое или юридическое лицо, самостоятельно установившее Программу для конечного использования на принадлежащем ему или законно используемом им Устройстве.
+
+2.4. «Распространение» — любая передача экземпляра Программы третьему лицу, в том числе публикация, загрузка, копирование, предоставление ссылки непосредственно на APK-файл, включение в сборку, прошивку или архив, передача за плату или бесплатно.
+
+
+3. ПРЕДОСТАВЛЯЕМАЯ ЛИЦЕНЗИЯ
+
+3.1. При условии соблюдения настоящего Соглашения Правообладатель предоставляет Пользователю простую неисключительную, безвозмездную, непередаваемую лицензию без права сублицензирования.
+
+3.2. Лицензия предоставляется исключительно для установки и использования Программы в качестве текстового суфлёра на Устройствах, принадлежащих Пользователю либо законно находящихся в его пользовании.
+
+3.3. Пользователь вправе использовать Программу бесплатно для личных или внутренних хозяйственных нужд при условии, что такое использование не связано с распространением Программы или оказанием услуг по её установке третьим лицам, за исключением действий, прямо разрешённых пунктом 4.7.
+
+3.4. Лицензия действует на территории всего мира в течение срока действия исключительных прав на Программу, если она не будет прекращена ранее в соответствии с настоящим Соглашением.
+
+3.5. Пользователю предоставляются только права, прямо указанные в настоящем Соглашении. Все остальные права сохраняются за Правообладателем.
+
+
+4. РАЗРЕШЁННОЕ ИСПОЛЬЗОВАНИЕ
+
+Пользователь вправе:
+
+4.1. Самостоятельно установить Программу из официального источника, определённого Правообладателем, на своё Устройство.
+
+4.2. Запускать и использовать Программу в соответствии с её назначением.
+
+4.3. Настраивать Программу средствами, предусмотренными её пользовательским интерфейсом.
+
+4.4. Удалить Программу в любое время.
+
+4.5. Сообщать другим лицам название Программы и предоставлять ссылку на официальный источник, определённый Правообладателем, при условии, что Пользователь не размещает и не передаёт сам файл Программы.
+
+4.6. Создавать резервные копии только в случаях и пределах, прямо предусмотренных обязательным применимым законодательством. Такие копии не могут передаваться другим лицам и должны быть уничтожены после прекращения права использования Программы.
+
+
+4.7. Допускается установка Программы из официального источника на Устройства, предназначенные для продажи или передачи, а также продажа или передача Устройства с установленной Программой. Такие действия сами по себе не нарушают запрет распространения, установленный настоящим Соглашением. Новый владелец или пользователь Устройства обязан принять настоящее Соглашение. Это разрешение не предоставляет права отдельно распространять APK-файлы, публиковать Программу на сторонних ресурсах, изменять Программу или оказывать платные услуги по её установке без письменного разрешения Правообладателя.
+
+
+5. ЗАПРЕТ РАСПРОСТРАНЕНИЯ
+
+5.1. Без предварительного письменного разрешения Правообладателя запрещается:
+
+а) выкладывать APK-файл Программы на сайты, форумы, файловые хранилища, облачные диски, социальные сети, мессенджеры, торрент-трекеры или иные ресурсы;
+
+б) публиковать Программу в магазинах приложений и каталогах программ;
+
+в) создавать зеркала официального источника;
+
+г) передавать APK-файл другим лицам лично, через сеть или на физических носителях;
+
+д) включать Программу в программные сборники, архивы, комплекты приложений или установщики;
+
+е) распространять Программу под другим названием;
+
+ж) выдавать себя за автора, представителя, дистрибьютора или официального партнёра Правообладателя.
+
+5.2. Разрешается размещать обычную интернет-ссылку на официальный источник Программы, если такая публикация не создаёт впечатления о наличии партнёрства, одобрения или разрешения на коммерческое использование.
+
+
+6. ЗАПРЕТ ИЗМЕНЕНИЯ И ИССЛЕДОВАНИЯ ПРОГРАММЫ
+
+6.1. Пользователю запрещается без письменного разрешения Правообладателя:
+
+а) изменять APK-файл, объектный код, ресурсы, интерфейс или функции Программы;
+
+б) создавать модифицированные версии, форки, клоны или производные программы на основе исходного или объектного кода Программы;
+
+в) декомпилировать, дизассемблировать, расшифровывать или осуществлять обратную разработку Программы;
+
+г) извлекать исходный код, алгоритмы, ключи, закрытые интерфейсы или внутренние компоненты;
+
+д) удалять или изменять сведения об авторе, Правообладателе, лицензии, цифровой подписи или версии;
+
+е) обходить или нарушать технические средства защиты;
+
+ж) переводить, адаптировать или локализовывать Программу;
+
+з) использовать части Программы при создании другого программного продукта;
+
+и) создавать и распространять патчи, взломанные версии или средства изменения Программы.
+
+6.2. Ограничения настоящего раздела применяются в максимальной степени, допускаемой законодательством.
+
+6.3. Если обязательное законодательство страны Пользователя предоставляет право на отдельные действия, которые не могут быть запрещены договором, такие действия допускаются только в минимально необходимом законом объёме и не должны использоваться:
+
+— для создания конкурирующей или существенно сходной программы;
+— для распространения изменённой версии;
+— для раскрытия полученной информации третьим лицам;
+— для нарушения исключительных прав Правообладателя.
+
+
+7. ИСКЛЮЧИТЕЛЬНЫЕ ПРАВА
+
+7.1. Программа предоставляется по лицензии, а не продаётся.
+
+7.2. Право собственности на Устройство или носитель не означает перехода исключительных прав на Программу.
+
+7.3. Все исключительные права на исходный код, объектный код, структуру, интерфейс, графические элементы, документацию и иные охраняемые компоненты Программы принадлежат Правообладателю либо соответствующим владельцам сторонних компонентов.
+
+7.4. Настоящее Соглашение не передаёт Пользователю исключительные права, право авторства, право на изменение, право распространения или право выдавать лицензии другим лицам.
+
+7.5. Использование товарных знаков, названий и обозначений третьих лиц носит исключительно информационный характер. Права на такие обозначения принадлежат их законным владельцам.
+
+
+8. СТОРОННИЕ КОМПОНЕНТЫ
+
+8.1. Программа может содержать библиотеки и иные компоненты третьих лиц.
+
+8.2. Если на отдельный сторонний компонент распространяется собственная лицензия, условия такой лицензии применяются к соответствующему компоненту.
+
+8.3. Наличие стороннего компонента с открытой лицензией не означает, что вся Программа VoiceScroll является программой с открытым исходным кодом, и не предоставляет права распространять или модифицировать Программу в целом.
+
+
+9. ОБНОВЛЕНИЯ
+
+9.1. Правообладатель вправе выпускать обновления, исправления и новые версии Программы, но не обязан делать это.
+
+9.2. Правообладатель не гарантирует сохранение всех функций, совместимость с конкретным Устройством или конкретной версией Android после обновления.
+
+9.3. Обновлённая версия может сопровождаться новой редакцией Соглашения. Новые условия применяются после их принятия Пользователем способом, предусмотренным соответствующей версией Программы.
+
+9.4. Пользователь вправе отказаться от установки обновления, однако в таком случае отдельные функции Программы могут работать неправильно или стать недоступными.
+
+
+10. ОТКАЗ ОТ ГАРАНТИЙ
+
+10.1. Программа предоставляется бесплатно на условиях «как есть» и «по мере доступности».
+
+10.2. В пределах, допускаемых применимым законодательством, Правообладатель не предоставляет гарантий:
+
+— бесперебойной или безошибочной работы;
+— совместимости со всеми Устройствами и версиями Android;
+— соответствия конкретным целям или ожиданиям Пользователя;
+— сохранения настроек после обновления системы или сброса Устройства;
+— отсутствия конфликтов с прошивкой или другими приложениями.
+
+10.3. Пользователь самостоятельно оценивает пригодность Программы для своего Устройства и перед установкой обязан принять разумные меры по сохранению важных данных и настроек.
+
+10.4. Правообладатель не обязан предоставлять техническую поддержку, дорабатывать Программу или исправлять обнаруженные ошибки.
+
+
+11. ОГРАНИЧЕНИЕ ОТВЕТСТВЕННОСТИ
+
+11.1. В максимальной степени, допускаемой применимым законодательством, Правообладатель не несёт ответственности за косвенные убытки, упущенную выгоду, потерю данных, настроек, доступа к приложениям либо временную невозможность использования Устройства.
+
+11.2. Ничто в настоящем Соглашении не исключает ответственность, которая не может быть исключена или ограничена обязательным законодательством страны Пользователя.
+
+11.3. Обязательные права потребителей, предоставленные применимым законодательством, сохраняются.
+
+
+12. ПРЕКРАЩЕНИЕ ЛИЦЕНЗИИ
+
+12.1. Пользователь вправе прекратить действие лицензии в любое время, полностью удалив Программу и все её копии.
+
+12.2. При нарушении настоящего Соглашения предоставленная лицензия прекращается автоматически без дополнительного уведомления.
+
+12.3. После прекращения лицензии Пользователь обязан немедленно прекратить использование Программы и удалить все находящиеся у него экземпляры и резервные копии.
+
+12.4. Прекращение лицензии не освобождает нарушителя от ответственности за нарушения, совершённые до её прекращения.
+
+
+13. НАРУШЕНИЕ ИСКЛЮЧИТЕЛЬНЫХ ПРАВ
+
+13.1. Распространение, модификация или коммерческое использование Программы за пределами предоставленной лицензии рассматриваются как использование Программы без разрешения Правообладателя.
+
+13.2. При выявлении нарушения Правообладатель вправе потребовать:
+
+— немедленно прекратить нарушение;
+— удалить незаконно размещённые файлы и публикации;
+— предоставить сведения об объёме распространения;
+— возместить убытки или выплатить предусмотренную законом компенсацию;
+— применить иные способы защиты, предусмотренные применимым законодательством.
+
+13.3. Правообладатель вправе обращаться к владельцам сайтов, магазинам приложений, маркетплейсам, хостинг-провайдерам, производителям, продавцам, государственным органам и судам с требованиями о прекращении нарушения.
+
+
+14. ПРИМЕНИМОЕ ЗАКОНОДАТЕЛЬСТВО
+
+14.1. Настоящее Соглашение регулируется законодательством Российской Федерации без ущерба для обязательных норм законодательства страны, в которой находится Пользователь или совершено нарушение.
+
+14.2. Охрана Программы осуществляется в соответствии с применимым национальным законодательством, международными договорами и принципом охраны авторских прав в стране совершения нарушения.
+
+14.3. Нарушения, совершённые на территории Китайской Народной Республики либо китайскими производителями, продавцами, экспортёрами, дистрибьюторами или интернет-площадками, могут преследоваться в соответствии с применимым законодательством Китайской Народной Республики об авторском праве, защите компьютерного программного обеспечения, гражданской, административной и уголовной ответственности.
+
+14.4. Аналогичный принцип применяется к нарушениям, совершённым в иных государствах.
+
+
+15. РАЗРЕШЕНИЕ СПОРОВ
+
+15.1. До обращения в суд сторонам рекомендуется попытаться урегулировать спор путём направления письменной претензии на адрес:
+dmitrych80@gmail.com
+
+15.2. Рекомендуемый срок ответа на претензию составляет 30 календарных дней с момента её получения.
+
+15.3. Претензионный порядок не ограничивает право Правообладателя незамедлительно обратиться за удалением незаконной копии, обеспечением доказательств, принятием предварительных мер или прекращением продолжающегося нарушения.
+
+15.4. Неурегулированные споры рассматриваются компетентным судом в соответствии с применимыми правилами подсудности и обязательными нормами законодательства.
+
+
+16. ЗАКЛЮЧИТЕЛЬНЫЕ ПОЛОЖЕНИЯ
+
+16.1. Если отдельное условие настоящего Соглашения будет признано недействительным или неисполнимым, остальные условия продолжают действовать.
+
+16.2. Неприменение Правообладателем мер защиты в конкретном случае не означает отказа от исключительных прав или разрешения на аналогичные действия в будущем.
+
+16.3. Любое разрешение на распространение, изменение или иное использование Программы за пределами настоящего Соглашения действительно только при его предоставлении Правообладателем в письменной форме.
+
+16.4. Переписка с адреса dmitrych80@gmail.com может использоваться для подтверждения предоставленного разрешения, если из её содержания однозначно следуют объём, срок и условия такого разрешения.
+
+16.5. Настоящее Соглашение представляет собой полный объём условий использования Программы между Пользователем и Правообладателем.
+
+16.6. Настоящее Соглашение составлено на русском и английском языках. В случае расхождений, неоднозначности толкования или различий между языковыми версиями преимущественную силу имеет русская версия, если обязательное применимое законодательство не требует иного.
+
+
+============================================================
+ENGLISH VERSION
+============================================================
+
+VoiceScroll
+END USER LICENSE AGREEMENT
+
+This End User License Agreement, hereinafter referred to as the “Agreement”, governs the installation and use of the Android software application named VoiceScroll, hereinafter referred to as the “Software”.
+
+The author and copyright holder of the Software is the developer operating under the name Dmitrych80, hereinafter referred to as the “Rightsholder”.
+
+Rightsholder’s email address:
+dmitrych80@gmail.com
+
+
+1. ACCEPTANCE OF THE AGREEMENT
+
+1.1. Before using the Software, the User must read this Agreement in full.
+
+1.2. Clicking the “Accept”, “I Agree” or any similar button, as well as subsequently launching or using the Software, constitutes the User’s full and unconditional acceptance of this Agreement.
+
+1.3. If the User does not agree with this Agreement in whole or in part, the User must not use the Software and must close and remove it from the Device.
+
+1.4. The User confirms that the User has the legal capacity required to enter into this Agreement. If the User acts on behalf of an organisation, the User confirms that the User has the necessary authority to bind that organisation.
+
+
+2. DEFINITIONS
+
+2.1. “Software” means VoiceScroll, including its executable APK files, object code, interface, graphic materials, documentation, updates and other components supplied by the Rightsholder as part of VoiceScroll.
+
+2.2. “Device” means a television set-top box, Android box, television, tablet, vehicle head unit or other hardware running Android or a compatible operating system.
+
+2.3. “User” means an individual or legal entity that independently installs the Software for end use on a Device owned or lawfully used by that individual or legal entity.
+
+2.4. “Distribution” means any transfer of a copy of the Software to a third party, including publication, uploading, copying, providing a direct link to an APK file, inclusion in a software bundle, firmware or archive, whether for payment or free of charge.
+
+
+3. LICENSE GRANT
+
+3.1. Subject to compliance with this Agreement, the Rightsholder grants the User a limited, non-exclusive, royalty-free, non-transferable and non-sublicensable license.
+
+3.2. The license is granted solely for installing and using the Software as a teleprompter on Devices owned or lawfully used by the User.
+
+3.3. The User may use the Software free of charge for personal or internal business purposes, provided that such use does not involve Distribution of the Software or provision of installation services to third parties, except for acts expressly permitted by Clause 4.7.
+
+3.4. The license is valid worldwide for the duration of the exclusive rights in the Software unless terminated earlier in accordance with this Agreement.
+
+3.5. The User receives only the rights expressly granted under this Agreement. All other rights are reserved by the Rightsholder.
+
+
+4. PERMITTED USE
+
+The User may:
+
+4.1. Independently install the Software on the User’s Device from an official source designated by the Rightsholder.
+
+4.2. Launch and use the Software for its intended purpose.
+
+4.3. Configure the Software using functions provided through its user interface.
+
+4.4. Remove the Software at any time.
+
+4.5. Inform other persons about the Software and provide a link to an official source designated by the Rightsholder, provided that the User does not upload, host, transmit or distribute the Software file itself.
+
+4.6. Make backup copies only where and to the extent expressly permitted by mandatory applicable law. Such copies may not be transferred to any other person and must be destroyed when the right to use the Software ends.
+
+
+4.7. The Software may be installed from an official source on Devices intended for sale or transfer, and a Device with the Software installed may be sold or transferred. Such acts alone do not violate the prohibition of Distribution under this Agreement. The new owner or user of the Device must accept this Agreement. This permission does not grant the right to distribute APK files separately, publish the Software on third-party resources, modify the Software, or provide paid installation services without the Rightsholder’s written permission.
+
+
+5. PROHIBITION OF DISTRIBUTION
+
+5.1. Without the Rightsholder’s prior written permission, the User may not:
+
+a) upload or publish the Software APK file on websites, forums, file-hosting services, cloud storage services, social networks, messaging services, torrent trackers or any other resource;
+
+b) publish the Software in application stores or software catalogues;
+
+c) create mirrors of the official source;
+
+d) provide or transmit the APK file to other persons in person, over a network or on physical media;
+
+e) include the Software in software collections, archives, application packages, installers or bundled distributions;
+
+f) distribute the Software under another name;
+
+g) falsely claim to be the author, representative, distributor or official partner of the Rightsholder.
+
+5.2. The User may publish an ordinary internet link to an official source of the Software, provided that such publication does not create the impression of a partnership, endorsement or permission for commercial use.
+
+
+6. PROHIBITION OF MODIFICATION AND REVERSE ENGINEERING
+
+6.1. Without the Rightsholder’s written permission, the User may not:
+
+a) modify the APK file, object code, resources, interface or functionality of the Software;
+
+b) create modified versions, forks, clones or derivative software based on the source code or object code of the Software;
+
+c) decompile, disassemble, decrypt or reverse engineer the Software;
+
+d) extract source code, algorithms, keys, non-public interfaces or internal components;
+
+e) remove or alter information concerning the author, Rightsholder, license, digital signature or version;
+
+f) circumvent or interfere with technical protection measures;
+
+g) translate, adapt or localise the Software;
+
+h) use any part of the Software to create another software product;
+
+i) create or distribute patches, cracked versions or tools intended to modify the Software.
+
+6.2. The restrictions in this Section apply to the maximum extent permitted by applicable law.
+
+6.3. If mandatory law in the User’s jurisdiction grants rights to perform certain acts that cannot lawfully be excluded by contract, such acts may be performed only to the minimum extent required by law and may not be used:
+
+— to create competing or substantially similar software;
+— to distribute a modified version;
+— to disclose obtained information to third parties;
+— to infringe the Rightsholder’s exclusive rights.
+
+
+7. INTELLECTUAL PROPERTY RIGHTS
+
+7.1. The Software is licensed, not sold.
+
+7.2. Ownership of a Device or storage medium does not transfer any intellectual property rights in the Software.
+
+7.3. All exclusive rights in the source code, object code, structure, interface, graphic elements, documentation and other protected components of the Software belong to the Rightsholder or to the respective owners of third-party components.
+
+7.4. This Agreement does not transfer to the User any exclusive rights, authorship rights, modification rights, Distribution rights or the right to grant licenses to other persons.
+
+7.5. Any trademarks, names or designations belonging to third parties are used for informational purposes only. Rights in such marks and designations belong to their lawful owners.
+
+
+8. THIRD-PARTY COMPONENTS
+
+8.1. The Software may contain libraries and other components supplied by third parties.
+
+8.2. Where a separate third-party component is subject to its own license, that license applies to the relevant component.
+
+8.3. The inclusion of a third-party open-source component does not mean that VoiceScroll as a whole is open-source software and does not grant permission to distribute or modify the Software as a whole.
+
+
+9. UPDATES
+
+9.1. The Rightsholder may, but is not required to, release updates, corrections and new versions of the Software.
+
+9.2. The Rightsholder does not guarantee that every function will be preserved or that the Software will remain compatible with a particular Device or Android version after an update.
+
+9.3. An updated version may be accompanied by a new version of this Agreement. New terms apply after the User accepts them in the manner provided by the relevant version of the Software.
+
+9.4. The User may refuse to install an update; however, certain functions may then operate incorrectly or become unavailable.
+
+
+10. DISCLAIMER OF WARRANTIES
+
+10.1. The Software is provided free of charge on an “as is” and “as available” basis.
+
+10.2. To the maximum extent permitted by applicable law, the Rightsholder makes no warranty that:
+
+— the Software will operate continuously or without errors;
+— the Software will be compatible with every Device or Android version;
+— the Software will meet the User’s particular purposes or expectations;
+— settings will be preserved after an operating system update or Device reset;
+— the Software will not conflict with firmware or other applications.
+
+10.3. The User is solely responsible for determining whether the Software is suitable for the User’s Device and must take reasonable measures to protect important data and settings before installation.
+
+10.4. The Rightsholder is not obliged to provide technical support, further develop the Software or correct identified errors.
+
+
+11. LIMITATION OF LIABILITY
+
+11.1. To the maximum extent permitted by applicable law, the Rightsholder is not liable for indirect or consequential loss, loss of profit, loss of data or settings, loss of access to applications, or temporary inability to use a Device.
+
+11.2. Nothing in this Agreement excludes or limits liability that cannot lawfully be excluded or limited under mandatory law applicable to the User.
+
+11.3. Mandatory consumer rights provided by applicable law remain unaffected.
+
+
+12. TERMINATION
+
+12.1. The User may terminate the license at any time by completely removing the Software and all copies of it.
+
+12.2. If the User breaches this Agreement, the license terminates automatically without further notice.
+
+12.3. Upon termination, the User must immediately stop using the Software and delete all copies and backups in the User’s possession or control.
+
+12.4. Termination does not release an infringing party from liability for infringements committed before termination.
+
+
+13. INFRINGEMENT OF EXCLUSIVE RIGHTS
+
+13.1. Distribution, modification or commercial use of the Software outside the scope of the license granted by this Agreement constitutes use without the Rightsholder’s permission.
+
+13.2. In the event of infringement, the Rightsholder may demand:
+
+— immediate cessation of the infringement;
+— removal of unlawfully hosted files and publications;
+— disclosure of information concerning the extent of Distribution;
+— compensation for losses or payment of statutory compensation where available;
+— any other remedies available under applicable law.
+
+13.3. The Rightsholder may submit takedown or infringement notices and other claims to website operators, application stores, online marketplaces, hosting providers, manufacturers, sellers, public authorities and courts.
+
+
+14. GOVERNING LAW
+
+14.1. This Agreement is governed by the laws of the Russian Federation, without prejudice to mandatory provisions of the law of the country in which the User is located or in which an infringement occurs.
+
+14.2. Protection of the Software is also subject to applicable national law, international treaties and the principle that copyright protection may be enforced under the law of the country where the infringement occurs.
+
+14.3. Infringements committed in the People’s Republic of China, or committed by Chinese manufacturers, sellers, exporters, distributors or online platforms, may be pursued under applicable laws of the People’s Republic of China concerning copyright, computer software protection, and civil, administrative or criminal liability.
+
+14.4. The same principle applies to infringements committed in other jurisdictions.
+
+
+15. DISPUTE RESOLUTION
+
+15.1. Before commencing court proceedings, the parties are encouraged to attempt to resolve the dispute by sending a written notice to:
+dmitrych80@gmail.com
+
+15.2. The recommended period for responding to such notice is 30 calendar days from receipt.
+
+15.3. This pre-action procedure does not restrict the Rightsholder’s right to immediately request removal of an unlawful copy, preservation of evidence, interim relief or cessation of an ongoing infringement.
+
+15.4. Any dispute not resolved by agreement shall be considered by a court of competent jurisdiction in accordance with applicable jurisdictional rules and mandatory law.
+
+
+16. GENERAL PROVISIONS
+
+16.1. If any provision of this Agreement is held invalid or unenforceable, the remaining provisions remain in effect.
+
+16.2. Failure by the Rightsholder to enforce any right in a particular case does not constitute a waiver of that right or permission for similar conduct in the future.
+
+16.3. Any permission to distribute, modify or otherwise use the Software outside the scope of this Agreement is valid only if provided by the Rightsholder in writing.
+
+16.4. Correspondence sent from dmitrych80@gmail.com may be used as evidence of permission where the scope, duration and conditions of that permission are clearly stated.
+
+16.5. This Agreement constitutes the entire agreement between the User and the Rightsholder concerning use of the Software.
+
+16.6. This Agreement is prepared in Russian and English. In the event of any conflict, ambiguity or difference between the language versions, the Russian version prevails unless mandatory applicable law requires otherwise.
